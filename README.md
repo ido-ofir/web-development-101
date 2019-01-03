@@ -63,3 +63,25 @@
   </body>
 </html>
 ```
+
+
+### Some basic HTML elements
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>A big heading</h1>
+    <p>A paragraph of text</p>
+    <h2>A smaller heading</h2>
+    <b>Bold text</b> <i>and italic</i>
+    <button>A button</button> and 
+    <input type="text" value="A text input"/>
+    <img src="https://thumbs.dreamstime.com/z/lake-bled-st-marys-church-assumption-small-island-slovenia-europe-135423609.jpg"/>
+    
+  </body>
+</html>
+```
